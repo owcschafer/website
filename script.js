@@ -19,3 +19,7 @@ function never() {
 function p() {
   open("/secrets/p.png")
 }
+
+function garf() {
+  open("/secrets/garf.gif")
+}

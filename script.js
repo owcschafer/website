@@ -15,3 +15,7 @@ function never() {
         var never = document.getElementById("never");
         never.play();
       }
+
+function p() {
+  open("/secrets/p.png")
+}

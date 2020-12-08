@@ -1,0 +1,24 @@
+.pfp {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+body {
+  font-family: Comic Sans MS;
+  text-align: center;
+  background-image: linear-gradient(to right, red, orange , yellow, green, blue, purple);
+}
+
+.links {
+  text-shadow: 4px 4px 5px #000000;
+}
+
+.icon {
+  -webkit-filter: drop-shadow(4px 4px 5px #000000);
+  filter: drop-shadow(4px 4px 5px #000000);
+  position: relative;
+  top: 7px;
+  left: 0px;
+}

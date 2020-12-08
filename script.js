@@ -10,3 +10,8 @@ function chungus() {
 function beehaven2() {
   open("/secrets/beehaven2.png")
 }
+
+function never() {
+        var never = document.getElementById("never");
+        never.play();
+      }

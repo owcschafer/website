@@ -1,0 +1,28 @@
+.pfp {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+  
+  body {
+    font-family: Arial;
+    text-align: center;
+    background-color: black;
+  }
+  
+  .links {
+    text-shadow: 4px 4px 5px #000000;
+  }
+  
+  .icon {
+    -webkit-filter: drop-shadow(4px 4px 5px #000000);
+    filter: drop-shadow(4px 4px 5px #000000);
+    position: relative;
+    top: 7px;
+    left: 0px;
+  }
+
+h1, a {
+  color: white
+}
